@@ -1,3 +1,5 @@
+做书籍阅读器可以参考
+
 项目地址：[https://github.com/JustWayward/BookReader](https://github.com/JustWayward/BookReader)
 
 # BookReader
